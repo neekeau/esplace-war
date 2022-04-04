@@ -17,7 +17,7 @@
 // @connect reddit.com
 // ==/UserScript==
 
-const ORDERS_URL = 'https://raw.githubusercontent.com/YisusOnDev/esplace-war/main/orders.json'
+const ORDERS_URL = 'https://raw.githubusercontent.com/YisussOnDev/esplace-war/main/orders.json'
 
 const ORDER_UPDATE_DELAY = 4 * 60 * 1000
 const TOAST_DURATION = 10 * 1000
